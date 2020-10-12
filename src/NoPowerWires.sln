@@ -1,0 +1,13 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoPowerWires", "NoPowerWires.csproj", "{2DD360EA-24DD-4EBC-B854-DA25F53E424D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DD360EA-24DD-4EBC-B854-DA25F53E424D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD360EA-24DD-4EBC-B854-DA25F53E424D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
